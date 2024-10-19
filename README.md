@@ -1,2 +1,2 @@
 # reconhecimentofala
- Mentoria de Reconhecimento de Fala do Hashtag
+App de Reconhecimento de Fala usando o Google
